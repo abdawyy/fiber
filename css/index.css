@@ -1,0 +1,143 @@
+nav{
+    position: fixed;
+    background-color:rgb(255, 249, 241);
+}
+nav .navbar-brand{
+    margin-left: 150px;
+    font-weight: bold;
+}
+nav .navbar-nav{
+    margin-left: 370px;
+}
+nav .buttons{
+    margin-left: 350px;   
+}
+.butn1{
+    color:black;
+    font-weight: bold;
+    transition:all 1s ease;
+}
+.butn1:hover{
+    color: darkblue;
+}
+.butn2{
+    font-weight: bold;
+    color: white;
+    background-color: blueviolet;
+    transition:all 1s ease;
+}
+.butn2:hover{
+    background-color: darkcyan;
+    color: white;
+    
+}
+.section1{
+    background-color:rgb(255, 249, 241);
+
+}
+.left-cls{
+    width: 50%;
+}
+.left-cls h1{
+    font-weight: bolder;
+    
+    
+}
+.left-cls .lnk{
+    color: blueviolet;
+    font-weight: bold;
+    cursor: pointer;
+    padding-right: 5px;
+}
+.left-cls button{
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+    transition: 1s all ease;
+}
+.left-cls button:hover{
+    color: white;
+    background-color:darkcyan;
+}
+.right-cls{
+    
+    
+}
+.section1 a{
+    transition: 1s all ease;
+}
+.section1 a:hover{
+color: darkcyan;
+cursor: pointer;
+}
+p{
+    margin: 5px;
+}
+.section2{
+    width: 80%;
+   margin: auto;
+}
+.section2 h1{
+    font-weight: bolder;
+    
+    
+}
+.section2 h4{
+    font-weight: bold;
+}
+.section2 p{
+    font-size: larger;
+}
+.sec2-para{
+    color: blueviolet;
+    font-weight: bold;
+}
+.section3{
+    background-color: white;
+    color:white;
+    border-radius: 15px;
+    width: 100%;
+    
+}
+.sec3{
+    background-color:  #4d13d1;
+    border-radius: 15px;
+    margin: auto;
+    
+}
+.section3 .btnsec3{
+    background-color: white;
+    color:#4d13d1;
+}
+.section4 .card-body h5{
+    color: #4d13d1;
+}
+.section4 .card-body .tnt{
+    color: grey;
+} 
+.btn1{
+    background-color: white;
+    color: #4d13d1;
+}
+.btn1:hover{
+    background-color: #4d13d1;
+    color: white;
+}
+footer{
+    background-color:rgb(255, 249, 241);
+    padding-top: 100px;
+    margin-top: 100px;
+}
+ul li{
+    list-style-type: none;
+}
+ul li:hover{
+    color:blue;
+    cursor: pointer;
+}
+footer div{
+    
+}
+footer ul .activ{
+    font-weight: bold;
+}
